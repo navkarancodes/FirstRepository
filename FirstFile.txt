@@ -6,4 +6,10 @@ There is an edit option on the right using which i added this line.
 
 For Any edit : we can commit ( add to the main branch )  OR make a new branch ( features that can be added later... ) 
 
+
+This is my first branch .This is an edit which i want to branch.  :)
+
+This is added to my First-Branch.
+
 This is added in the master branch. 
+
