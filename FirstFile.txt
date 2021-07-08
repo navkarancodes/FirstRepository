@@ -3,3 +3,5 @@ Welcome to github  Navkaran. U created ur first file :)
 There is an edit option on the right using which i added this line.
 
 2nd Edit :)
+
+For Any edit : we can commit ( add to the main branch )  OR make a new branch ( features that can be added later... ) 
